@@ -11,7 +11,6 @@ function StudentForm() {
     name: '',
     email: '',
     phone: '',
-    address: '',
     marks: [{ subject: '', marks: '' }]
   });
 
